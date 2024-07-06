@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257049264720",
+    "project_id": "messageabdo-25b84",
+    "storage_bucket": "messageabdo-25b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257049264720:android:c0817d849b45ae884f4755",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJoJ0Uv1EwtapwACejOaY1ciXMRaQYcmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
